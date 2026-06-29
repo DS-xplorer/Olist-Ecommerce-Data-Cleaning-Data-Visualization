@@ -27,27 +27,6 @@ The dataset was processed using Power Query to handle missing values, duplicates
 
 ---
 
-## 📂 Project Structure
-
-```
-Olist-Ecommerce-Data-Cleaning-Data-Visualization/
-│
-├── Data/
-│   ├── Olist_Raw_Data.csv
-│   └── Olist_Cleaned_Data.csv
-│
-├── Dashboard/
-│   ├── Olist_Dashboard.twbx
-│   └── Olist_Dashboard.html
-│
-├── Images/
-│   ├── Dashboard_Preview.png
-│   └── Cover_Page.png
-│
-└── README.md
-```
-
----
 
 ## 🧹 Data Cleaning Process
 
@@ -88,23 +67,8 @@ The interactive dashboard includes:
 
 ---
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here.
-
-Example:
-
-```markdown
-![Dashboard Preview](Images/Dashboard_Preview.png)
-```
-
----
-
 ## 📁 Files Included
 
-- Raw Dataset
-- Cleaned Dataset
-- Tableau Dashboard (.twbx)
 - Interactive HTML Dashboard
 - Dashboard Screenshot
 - README Documentation
